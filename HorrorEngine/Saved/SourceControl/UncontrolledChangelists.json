@@ -1,0 +1,39 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Unreal Project/HorrorEngine/Content/HorrorEngine/Maps/MyGame.umap",
+				"C:/UE_5.2/Engine/Content/BasicShapes/Cube.uasset",
+				"C:/Unreal Project/HorrorEngine/Content/HorrorEngine/HE_GameplaySettings.uasset",
+				"C:/Unreal Project/HorrorEngine/Content/HorrorEngine/Blueprints/UsableAssets/DoorsAndFurnitures/Door.uasset",
+				"C:/Unreal Project/HorrorEngine/Content/HorrorEngine/Maps/_GENERATED/aofza/Boolean_7E5754E5.uasset",
+				"C:/Unreal Project/HorrorEngine/Content/HorrorEngine/Maps/_GENERATED/aofza/Boolean_A5A60C1A.uasset",
+				"C:/Unreal Project/HorrorEngine/Content/HorrorEngine/Maps/_GENERATED/aofza/Box_0F1282E2.uasset",
+				"C:/Unreal Project/HorrorEngine/Content/HorrorEngine/Blueprints/Core/HorrorEngineFunctions.uasset",
+				"C:/Unreal Project/HorrorEngine/Content/HorrorEngine/Blueprints/UsableAssets/Controllers/SecretPainting.uasset",
+				"C:/Unreal Project/HorrorEngine/Content/HorrorEngine/Maps/Overview.umap",
+				"C:/Unreal Project/HorrorEngine/Content/HorrorEngine/MyAudio/Hello.uasset",
+				"C:/Unreal Project/HorrorEngine/Content/HorrorEngine/MyAudio/Light_source.uasset",
+				"C:/Unreal Project/HorrorEngine/Content/HorrorEngine/MyAudio/Goodluck_door.uasset",
+				"C:/Unreal Project/HorrorEngine/Content/HorrorEngine/Audio/Footsteps/Default_Cue.uasset",
+				"C:/Unreal Project/HorrorEngine/Content/HorrorEngine/MyAudio/Flashlight.uasset",
+				"C:/Unreal Project/HorrorEngine/Content/HorrorEngine/MyAudio/GoGetTutorials.uasset",
+				"C:/Unreal Project/HorrorEngine/Content/HorrorEngine/MyAudio/Goodjob.uasset",
+				"C:/Unreal Project/HorrorEngine/Content/HorrorEngine/MyAudio/JustPaper.uasset",
+				"C:/Unreal Project/HorrorEngine/Content/HorrorEngine/MyAudio/Lighter.uasset",
+				"C:/Unreal Project/HorrorEngine/Content/HorrorEngine/MyAudio/TutorialThis.uasset",
+				"C:/Unreal Project/HorrorEngine/Content/HorrorEngine/MyAudio/FindGlow.uasset",
+				"C:/Unreal Project/HorrorEngine/Content/HorrorEngine/MyAudio/FindIt.uasset",
+				"C:/Unreal Project/HorrorEngine/Content/HorrorEngine/MyAudio/FindKey.uasset",
+				"C:/Unreal Project/HorrorEngine/Content/HorrorEngine/MyAudio/HeHe.uasset",
+				"C:/Unreal Project/HorrorEngine/Content/HorrorEngine/MyAudio/SoDark.uasset",
+				"C:/Unreal Project/HorrorEngine/Content/HorrorEngine/MyAudio/WhichOneLightSwitch.uasset",
+				"C:/Unreal Project/HorrorEngine/Content/HorrorEngine/MyAudio/Wrong.uasset",
+				"C:/Unreal Project/HorrorEngine/Content/HorrorEngine/MyAudio/YesLightSwitch.uasset"
+			]
+		}
+	]
+}
